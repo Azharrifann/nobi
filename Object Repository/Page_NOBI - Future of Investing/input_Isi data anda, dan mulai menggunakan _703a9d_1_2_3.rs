@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Isi data anda, dan mulai menggunakan _703a9d_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>8dceba22-0e6c-44b9-ac12-770774543afc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.input-section > input.w-100.border-radius-10</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d49dea53-a3a0-4867-9ad5-e8f13cf115ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a9f4f4f1-a03c-4513-b877-20918b644c6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Kode Rujuk (Pilihan)</value>
+      <webElementGuid>019c9f2c-4daf-400a-b9ff-4fe293475631</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-100 border-radius-10</value>
+      <webElementGuid>39a1223f-a7b8-4980-9c11-22d6ba8a13a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;section-register&quot;]/div[@class=&quot;container-custom&quot;]/div[@class=&quot;row justify-content-center mt-50&quot;]/div[@class=&quot;col-sm-10 col-md-7 col-lg-5&quot;]/span[1]/form[1]/div[@class=&quot;input-section&quot;]/input[@class=&quot;w-100 border-radius-10&quot;]</value>
+      <webElementGuid>624355a6-560f-45f8-9a7f-f67c7983f204</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>dda3a06c-ef0a-4f0d-b802-6ac37712451b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div/div/div[2]/div/span/form/div[4]/input</value>
+      <webElementGuid>b8dff25b-0bc2-4327-9405-1ff1e493aadc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/input</value>
+      <webElementGuid>bbe02008-4241-4180-9200-c362df02b474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Kode Rujuk (Pilihan)']</value>
+      <webElementGuid>9563e340-979a-4953-b894-8541068b8bd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

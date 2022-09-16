@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Isi data anda, dan mulai menggunakan _703a9d_1_2</name>
+   <tag></tag>
+   <elementGuidId>6d50a284-9c3d-41c9-952d-d283651292e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='password'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3fc178f3-3c6f-4e66-8cda-1747de3e0487</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Ulangi Kata Sandi</value>
+      <webElementGuid>883b3c4f-d9cd-4de1-ab5d-9a5d91d0b718</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>9acf60e5-2985-4ff3-9af2-04cfa939c292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-100 border-radius-10</value>
+      <webElementGuid>d9b4dd8d-ca09-43cf-918c-9e84c9de769d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;section-register&quot;]/div[@class=&quot;container-custom&quot;]/div[@class=&quot;row justify-content-center mt-50&quot;]/div[@class=&quot;col-sm-10 col-md-7 col-lg-5&quot;]/span[1]/form[1]/div[@class=&quot;input-section&quot;]/span[1]/div[@class=&quot;tw-relative&quot;]/input[@class=&quot;w-100 border-radius-10&quot;]</value>
+      <webElementGuid>f1e060d8-b30f-4aae-8b6d-72bab82e8103</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='password'])[2]</value>
+      <webElementGuid>3b64e4fe-5ffb-4a88-b5a6-7256c4770935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div/div/div[2]/div/span/form/div[3]/span/div/input</value>
+      <webElementGuid>babe4d40-7868-4ed6-8638-a8c0f92db92b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/div/input</value>
+      <webElementGuid>90e11354-4b20-41fc-8925-3643bbcbf6a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Ulangi Kata Sandi' and @type = 'password']</value>
+      <webElementGuid>4efbebed-f901-460c-89a1-e36b33a28106</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Invalid email format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c49e3f75-60f6-4fde-84b8-21c8c10b7299</testCaseGuid>
+</TestCaseEntity>
